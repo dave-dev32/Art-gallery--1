@@ -36,7 +36,7 @@ The goal of this platform is to create an inclusive digital space where art can 
 ## 📂 How to Use  
 
 ### View the Project  
-Visit the live site here: [(https://dave-dev32.github.io/Art-gallery--1/)]  
+Visit the live site here: [(https://alvin-dev32.github.io/Art-gallery--1/)]  
 
 ### Run Locally  
 1. Clone the repository:  
